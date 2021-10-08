@@ -15,7 +15,7 @@ React.js[https://reactjs.org/]
 
 This project is currently in development. It can be updated according to clients requirement that what features they want to show to the users about their product.
 
-# Getting Started with Create React App
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
