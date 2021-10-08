@@ -7,11 +7,11 @@ A web based application which let you explore different holiday destinations.
 Its a website which let you explore about different destinations around the world and it gives you options for services that can be provied to the user according to their requirements.
 React classes like React router dom and useState has been used to create this application 
 
-### Built with
+## Built with
 
 React.js[https://reactjs.org/]
 
-# Project Status
+## Project Status
 
 This project is currently in development. It can be updated according to clients requirement that what features they want to show to the users about their product.
 
