@@ -9,8 +9,8 @@ React classes like React router dom and useState has been used to create this ap
 
 ## Built with
 
-*[React.js](https://reactjs.org/)
-*[Bootstrap](https://getbootstrap.com/)
+* [React.js](https://reactjs.org/)
+* [Bootstrap](https://getbootstrap.com/)
 
 ## Project Status
 
