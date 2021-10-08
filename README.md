@@ -1,6 +1,6 @@
 # TRVL
 
-A web based application which let you explore different holiday destinations.
+A web based application which lets you explore different holiday destinations around the world.
 
 ## About The Project
 
